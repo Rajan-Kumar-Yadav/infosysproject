@@ -1,0 +1,57 @@
+
+
+.nav-bar {
+  margin-left: 100px;
+
+}
+.nav-brand {
+  margin-left: 35px;
+
+  
+ 
+}
+.nav-links {
+  margin-top: 0px;
+}
+h2 {
+margin-bottom: 0px;
+}
+.nav-links ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.btn {
+  margin-left: 30px;
+  border: none;
+ font-weight: bold;
+}
+a {
+  text-decoration: none;
+font-size: 14px;
+}
+
+.wordCarousel {
+  margin-left: 100px;
+}
+.flip4 {
+  display: none;
+}
+.detail-btn{
+  margin-left: 100px;
+
+}
+.footer {
+  margin-top: 300px;
+}
+.footer ul {
+
+margin-left: 350px;
+ 
+}
+.footer ul a li  {
+display: inline;
+margin: 20px;
+
+
+
+}
